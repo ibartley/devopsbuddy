@@ -1,2 +1,6 @@
 # devopsbuddy
-udemy course repo
+udemy course rep
+
+xbuild command 
+'''
+mvn clean instalo
